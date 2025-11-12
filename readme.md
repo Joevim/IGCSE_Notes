@@ -1,0 +1,15 @@
+# IGCSE Notes
+
+Written in Emacs Org mode
+Exported to HTML using [ReadTheOrg](https://github.com/fniessen/org-html-themes)
+
+Notes are incomplete
+They are based on the IGCSE CIE Cambridge syllabus
+If a note is marked as DONE, it either means that
+- I have found and included the information that is demanded by the syllabus
+- Found it easy enough to ignore
+- Added the information to a flashcard deck
+
+If a note is marked as TODO
+- I haven't reviewed the note, and what you see is just what I copied from the syllabus
+
