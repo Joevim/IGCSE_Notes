@@ -17,5 +17,5 @@ If a note is marked as DONE, it either means that
 If a note is marked as TODO
 - I haven't reviewed the note, and what you see is just what I copied from the syllabus
 
-# Notes
+# Content
 [Chemistry](https://joevim.github.io/IGCSE_Notes/chem.html)
