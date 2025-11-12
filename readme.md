@@ -1,10 +1,14 @@
 # IGCSE Notes
 
 Written in Emacs Org mode
+
+
 Exported to HTML using [ReadTheOrg](https://github.com/fniessen/org-html-themes)
 
 Notes are incomplete, I tried to do the chapters in order, then got bored and only did the difficult chapters
+
 They are based on the IGCSE CIE Cambridge syllabus
+
 If a note is marked as DONE, it either means that
 - I have found and included the information that is demanded by the syllabus
 - Found it easy enough to ignore
