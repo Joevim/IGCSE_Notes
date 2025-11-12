@@ -1,11 +1,9 @@
-# IGCSE Notes
-
 Written in Emacs Org mode
 
 
 Exported to HTML using [ReadTheOrg](https://github.com/fniessen/org-html-themes)
 
-Notes are incomplete, I tried to do the chapters in order, then got bored and only did the difficult chapters
+These notes are an annotated version of the 2025 syllabus, they are incomplete, I tried to do the chapters in order, then got bored and only did the difficult chapters
 
 They are based on the IGCSE CIE Cambridge syllabus
 
